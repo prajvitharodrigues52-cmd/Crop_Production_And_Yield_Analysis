@@ -1,0 +1,28 @@
+CROP PRODUCTION & YIELD ANALYSIS
+========================================
+
+Total Records: 246091
+Total Columns: 7
+
+Column Names:
+State_Name, District_Name, Crop_Year, Season, Crop, Area, Production
+
+Missing Values:
+State_Name          0
+District_Name       0
+Crop_Year           0
+Season              0
+Crop                0
+Area                0
+Production       3730
+
+Duplicate Rows: 0
+
+Data Types:
+State_Name           str
+District_Name        str
+Crop_Year          int64
+Season               str
+Crop                 str
+Area             float64
+Production       float64
